@@ -17,7 +17,7 @@ I believe that that if you love what you do you will never need to work in life.
 
 
 <a href="https://mail.google.com/mail/ca/u/0/?view=cm&fs=1&tf=1&source=mailto&su=Contato&to=silasandrade94@gmail.com">
-  <code><img alt="My e-mail" width="32" src="https://cdn-icons.flaticon.com/png/128/2504/premium/2504727.png?token=exp=1658072719~hmac=e63ef427cc354110ba61ebf8e4eee21c" /></code>
+  <code><img alt="My e-mail" width="32" src="https://img.icons8.com/color/344/circled-envelope.png" /></code>
 </a>
 
 
