@@ -12,7 +12,7 @@ I believe that that if you love what you do you will never need to work in life.
 ### Where to find me:
 
 <a href="https://www.linkedin.com/in/silas-desenvolvedor/">
-  <code><img alt="My linkedin" width="28" src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536505.png?token=exp=1657322337~hmac=b6bd91029ab631f86fb9d37804652d67" title="linkedin ícones" /></code>
+  <code><img alt="My linkedin" width="28" src="https://img.icons8.com/color/344/linkedin-2--v1.png" title="linkedin ícones" /></code>
 </a>
 
 
